@@ -1,6 +1,4 @@
-# HS1905topicmodel
-
-Topic model of Helsingin Sanomat 1905
+# Topic model of Helsingin Sanomat 1905
 
 
 The material used for this topic model is the first full volume of Helsingin Sanomat newspaper. It was launched in July of 1904 after its predecessor Päivälehti was shut down, in the aftermath of the assassination of Finland’s General-Governor Bobrikov. 
